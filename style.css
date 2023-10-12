@@ -1,0 +1,9 @@
+#logo:hover{
+    animation: rotate 5s infinite linear;
+    border-radius: 50%;
+    opacity: 0.6;
+}
+#education{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+}
